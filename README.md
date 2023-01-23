@@ -3,7 +3,7 @@
 <img aign="center" width=400 alt="Machine Learning" src="https://media.tenor.com/Lbfyti3y8UkAAAAC/machine-learning-artificial-intelligence.gif">
 - 🔭 I’m currently working on **Crop Disease Prediction(College Project)**
 
-- 🌱 I’m currently learning **Data Analytics, Data Science, R, Robotics, IoT, NLP, Node.js, React, Tableau, Power-BI, Block-Chain, Bio-Technology, Bio-Informatics, Big Data Analytics, Cloud Computing and more.**
+- 🌱 I’m currently learning **Data Analytics, Basic, Intermediate and Advanced Excel, Data Science, R, Robotics, IoT, NLP, Node.js, React, Tableau, Power-BI, Block-Chain, Bio-Technology, Bio-Informatics, Big Data Analytics, Cloud Computing and more.**
 
 - 👯 I’m looking to collaborate on **Any Innovative Project using trending tools and technologies**
 
