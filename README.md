@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arpan Choudhury</h1>
 <h3 align="center">I am a passionate and innovative Data Science and Machine Learning from India.</h3>
-<img aign="left" width=400 alt="Machine Learning" src="https://media.tenor.com/Lbfyti3y8UkAAAAC/machine-learning-artificial-intelligence.gif">
+<img aign="center" width=400 alt="Machine Learning" src="https://media.tenor.com/Lbfyti3y8UkAAAAC/machine-learning-artificial-intelligence.gif">
 - 🔭 I’m currently working on **Crop Disease Prediction(College Project)**
 
 - 🌱 I’m currently learning **Data Analytics, Data Science, R, Robotics, IoT, NLP, Node.js, React, Tableau, Power-BI, Block-Chain, Bio-Technology, Bio-Informatics, Big Data Analytics, Cloud Computing and more.**
